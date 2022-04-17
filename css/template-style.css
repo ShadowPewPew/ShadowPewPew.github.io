@@ -194,8 +194,8 @@ td {border-right:1px solid #fff;}
 .background-dark-hightlight .aside-nav > ul > li.active-item > a:link, .background-dark-hightlight .aside-nav > ul > li.active-item > a:visited,
 .primary-color-dark .background-primary-hightlight .top-nav .active-item > a, .primary-color-dark .background-primary-hightlight .top-nav li a:hover, .primary-color-dark .background-primary-hightlight .aside-nav li a:hover, 
 .primary-color-dark .background-primary-hightlight .aside-nav > ul > li.active-item > a:link, .primary-color-dark .background-primary-hightlight .aside-nav > ul > li.active-item > a:visited {
-  background: #002633 none repeat scroll 0 0;
-  color: #fff;
+  background: #FFFFFF none repeat scroll 0 0;
+  color: #FFFFFF;
 }
 .background-none {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0!important;
@@ -251,7 +251,8 @@ ul.chevron .submenu > a::after, ul.chevron .sub-submenu > a::after, ul.chevron .
 } 
 .background-dark, .background-dark p, a.background-dark, a.background-dark:visited, a.background-dark:link, .background-dark a, .background-dark a:link, .background-dark a:visited, .background-dark a:hover, .background-dark a:active,
 .primary-color-dark .background-primary, .primary-color-dark .background-primary p, .primary-color-dark a.background-primary, .primary-color-dark a.background-primary:visited, .primary-color-dark a.background-primary:link, .primary-color-dark a.background-primary:visited, .primary-color-dark .background-primary a, .primary-color-dark .background-primary a:link, .primary-color-dark .background-primary a:visited, .primary-color-dark .background-primary a:hover, .primary-color-dark .background-primary a:active {
-  color: #7697A2;
+  color: #FFFFFF;
+
 }
 .background-white h1, .background-white h2, .background-white h3, .background-white h4, .background-white h5, .background-white h6,
 .background-white .h1, .background-white .h2, .background-white .h3, .background-white .h4, .background-white .h5, .background-white .h6, 
@@ -291,6 +292,9 @@ ul.chevron .submenu > a::after, ul.chevron .sub-submenu > a::after, ul.chevron .
 .primary-color-aqua .background-primary h1, .primary-color-aqua .background-primary h2, .primary-color-aqua .background-primary h3, .primary-color-aqua .background-primary h4, .primary-color-aqua .background-primary h5, .primary-color-aqua .background-primary h6,
 .primary-color-aqua .background-primary .h1, .primary-color-aqua .background-primary .h2, .primary-color-aqua .background-primary .h3, .primary-color-aqua .background-primary .h4, .primary-color-aqua .background-primary .h5, .primary-color-aqua .background-primary .h6 {
   color: #fff;
+}
+.text-black{
+  color: #000000 !important;
 }
 .text-white, .text-white *, .primary-color-white .text-primary, .primary-color-white .text-primary * {
   color: #fff !important;
@@ -344,7 +348,7 @@ ul.chevron .submenu > a::after, ul.chevron .sub-submenu > a::after, ul.chevron .
   background-color: #E4A600 !important;
 }
 .background-red, .primary-color-red .background-primary {
-  background-color: #C81010 !important;
+  background-color: #686F8C !important;
 }
 .background-blue, .primary-color-blue .background-primary {
   background-color: #005881 !important;
@@ -549,7 +553,7 @@ visibility:hidden;
   display: inline-block;
 }
 .owl-carousel .owl-dot span {
-  background: #7697a2 none repeat scroll 0 0;
+  background: #FFFFFF none repeat scroll 0 0;
   border-radius: 0;
   display: block;
   height: 1px;
@@ -569,8 +573,8 @@ visibility:hidden;
 }
 .owl-carousel .owl-nav div {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  color: #7697a2!important;
-  border: 1px solid #7697a2;
+  color: #FFFFFF!important;
+  border: 1px solid #FFFFFF;
   border-radius: 0;
   font-family: mfg;
   height: 40px;
@@ -1387,7 +1391,7 @@ section, header {
   opacity: 0.3;  
 }
 .background-dark .owl-carousel .owl-dot span {
-  background: #fff;
+  background: #FFFFFF;
 }
 .owl-carousel.text-left .owl-dots {
     text-align: left;
@@ -1455,7 +1459,7 @@ section, header {
   color: #5EB6AF !important;
 }
 .background-dark .background-white.button-more, .primary-color-dark .background-primary .background-white.button-more {
-  color: #002633 !important; 
+  color: #FFFFFF !important; 
 }
 
 @media screen and (max-width:768px) {

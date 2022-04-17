@@ -186,6 +186,23 @@ a.tooltip-content.tooltip-bottom,.tooltip-content.tooltip-bottom {
 .button.rounded-full-btn {
   border-radius: 100px;
 }
+
+.background-d1{
+  background-color: #7697A2;
+}
+.background-d2{
+  background-color: #ACC0C7;
+}
+.background-d3{
+  background-color: #89685D;
+}
+.background-d4{
+  background-color: #97A276;
+}
+.background-d5{
+  background-color: #A27697;
+}
+
 .button:hover {
   box-shadow: 0 0 10px 100px rgba(255,255,255,0.15) inset;
   color: #fff;
@@ -259,7 +276,7 @@ a.tooltip-content.tooltip-bottom,.tooltip-content.tooltip-bottom {
 .item23 {
   width: 200px;
   padding: 129px;
-  background-color: #002633;
+  background-color: #000000;
   border: 2px solid #002633;
   vertical-align: middle;
   text-align: center;
